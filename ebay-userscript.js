@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name eBay Sold Listings Price Calculator
-// @namespace https://sblevine.wordpress.com/software/ebay-userscript
+// @namespace https://raw.githubusercontent.com/Tiberia99/scripts-from-wordpress/main/ebay-userscript.js
 // @version 1.5
 // @description Calculates the current going sale price of sold items. Technically, calculates the average, median, and IQR prices. Only works on the items displayed on the page. Tip: Set page to display 200 items, sorted by End Time (Recent).
 // @match https://www.ebay.com/sch/*LH_Sold=1*
 // @includes https://www.ebay.com/sch/*LH_Sold=1*
-// @copyright 2014-2020, Steven Levine
+// @copyright 2014-2021, https://github.com/Tiberia99
 // ==/UserScript==
  
 (function (){
